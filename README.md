@@ -1,5 +1,6 @@
 # observer-pattern
-Nếu đã từng làm việc với java swing thì sẽ không khó gặp các loại event như: 
+Nếu đã từng làm việc với java swing thì sẽ không khó gặp các loại event như:
+
 button.addClickListener(new Object() {
   onData(EventData ed){
     
