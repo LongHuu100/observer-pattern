@@ -12,7 +12,10 @@ public class Event {
 
          // and in the end
 
-         if (mOnEventListener != null)
+         if (mOnEventListener != null){
+             var eventResult = new EventResult();
+             eventResult.data = "Test Data Event";
              mOnEventListener.onEvent(eventResult); // event result object :)
+         }
     }
 }
