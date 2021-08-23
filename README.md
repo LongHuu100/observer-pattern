@@ -7,4 +7,4 @@ button.addClickListener(new Object() {
   }
 });
 
-Đó chính là observer, repos chứng minh việc sử dụng observer trong java core
+Đó chính là observer, repos mô tả việc sử dụng observer trong java core
